@@ -1,2 +1,2 @@
 # Induction-Program
-author - Dilroop Grewal ECE
+ Dilroop Grewal ECE
